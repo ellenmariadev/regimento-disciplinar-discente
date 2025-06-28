@@ -1,0 +1,37 @@
+[
+  {
+    "condutas": ["fraude", "cola", "usar celular em prova", "plágio"],
+    "classificacao": "Infração Grave",
+    "penalidade": "Suspensão de até 30 dias",
+    "fundamento": "Art. 192, Inciso III — Praticar fraude em prova ou trabalho escolar.",
+    "tipo": "grave"
+  },
+  {
+    "condutas": ["desrespeito", "xingamento", "ameaça", "intimidação"],
+    "classificacao": "Infração Grave",
+    "penalidade": "Advertência ou suspensão",
+    "fundamento": "Art. 192, Inciso IV — Praticar ato atentatório à moral ou aos bons costumes.",
+    "tipo": "grave"
+  },
+  {
+    "condutas": ["vandalismo", "quebrar patrimônio", "pichação"],
+    "classificacao": "Infração Gravíssima",
+    "penalidade": "Desligamento da universidade",
+    "fundamento": "Art. 193, Inciso I — Causar danos intencionais ao patrimônio público.",
+    "tipo": "desligamento"
+  },
+  {
+    "condutas": ["agressão física", "violência contra colega", "bater em funcionário"],
+    "classificacao": "Infração Gravíssima",
+    "penalidade": "Desligamento da universidade",
+    "fundamento": "Art. 193, Inciso II — Agressão física dentro da universidade.",
+    "tipo": "desligamento"
+  },
+  {
+    "condutas": ["portar arma", "tráfico de drogas", "uso de entorpecentes"],
+    "classificacao": "Infração Gravíssima",
+    "penalidade": "Desligamento da universidade",
+    "fundamento": "Art. 193, Inciso III — Porte de arma ou envolvimento com entorpecentes no ambiente acadêmico.",
+    "tipo": "desligamento"
+  }
+]
